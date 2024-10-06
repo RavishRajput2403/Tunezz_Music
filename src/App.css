@@ -1,0 +1,11 @@
+/* index.css or App.css */
+body {
+      background-color: #97BC62;
+      margin: 0; /* Remove default margin */
+      color: white; /* Set default text color to white if needed */
+      }
+
+      /* Optional: to keep the same color for scrollbars */
+      ::webkit-scrollbar {
+            background-color: #97BC62;
+      }
